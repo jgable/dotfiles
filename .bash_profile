@@ -1,4 +1,8 @@
 
+# Add ~/bin to the PATH
+PATH=$PATH:~/bin
+export PATH
+
 # Don't judge me, old habits die hard
 alias dir='ls'
 
