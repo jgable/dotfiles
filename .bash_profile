@@ -5,6 +5,7 @@ export PATH
 
 # Don't judge me, old habits die hard
 alias dir='ls'
+alias edit='subl'
 
 # Tell ls to be colourful
 export CLICOLOR=1
